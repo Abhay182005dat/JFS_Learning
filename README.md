@@ -1,2 +1,3 @@
-# JFS_Learning
-This is a repo made for learning in NIE
+## ML Lab
+
+These are some of my projects made in my Ml lAB :)
