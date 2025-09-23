@@ -1,3 +1,3 @@
 ## ML Lab
 
-These are some of my projects made in my Ml lAB :)
+These are some of my projects made in my Ml LAB :)
